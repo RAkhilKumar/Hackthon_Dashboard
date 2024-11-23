@@ -9,12 +9,7 @@
     "boxicons": "^2.1.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-<<<<<<< HEAD
     "react-scripts": "5.0.1",
-=======
-    "react-router-dom": "^6.28.0",
-    "react-scripts": "^5.0.1",
->>>>>>> 7afc71368a3b1a7e19f1bcb4f232b464e9ac1ef9
     "web-vitals": "^2.1.4"
   },
   "scripts": {
